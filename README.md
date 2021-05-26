@@ -1,4 +1,4 @@
-# MachineLesarning-face-similarity-detection
+# MachineLearning-face-similarity-detection
 ## Open it(pa2) using google colab, run it using GPU resources or you may use jupyter note book to open.
 ## Please follow the comment inside the notebook file
 ## Train.csv - validate.csv storing all the information of image directory. 
