@@ -1,4 +1,6 @@
-# MachineLearning-face-similarity-detection
+<h1 align="center">MachineLearning-face-similarity-detection</h1>
+
+## :page_with_curl: Installation
 > **Open it(pa2) using google colab, run it using GPU resources or you may use jupyter note book to open.**
 >
 > **Please follow the comment inside the notebook file**
@@ -19,3 +21,4 @@
 > 15 epochs
 > 
 > Customize the training function and load function.
+
